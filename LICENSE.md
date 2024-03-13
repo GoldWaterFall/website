@@ -31,3 +31,5 @@ Contributions to the Southern Cross AI project are subject to the terms and cond
 **Contact**
 
 For inquiries regarding the Southern Cross AI project or its licensing, please contact [hello@dalerogers.com.au] or [matthew.altenburg@anu.edu.au].
+
+Shiqi Ding 's test
